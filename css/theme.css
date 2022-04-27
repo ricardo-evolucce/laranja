@@ -3,6 +3,17 @@ Name: 			theme.css
 Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	9.4.0
 */
+
+.btn-laranja{
+	background-color:#fc9a31;
+	color: #fff;
+}
+
+.btn-azul{
+	background-color:#5e7ccf; 
+	color: #fff;
+}
+
 .nav{
 	    justify-content:  center !important;
 
@@ -41,7 +52,8 @@ a:before {
 .fl-wrap {
     float: left;
     width: 90%;
-    position: relative
+    position: relative;
+        margin-bottom: 20px;
 }
 
 .main-search-input:before {
@@ -77,7 +89,7 @@ a:before {
 }
 
 .main-search-button {
-    background: #4DB7FE
+    background: #fc9a31
 }
 
 .main-search-button {
