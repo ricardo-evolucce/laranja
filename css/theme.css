@@ -4,6 +4,8 @@ Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	9.4.0
 */
 
+
+
 .btn-laranja{
 	background-color:#fc9a31;
 	color: #fff;
@@ -115,13 +117,30 @@ a:before {
     outline: 0
 }
 
+@media only screen and (min-width: 768px) {
+.celular-mostra{
+	display: none !important;
+}
+}
+
 @media only screen and (max-width: 768px) {
     .main-search-input {
         background: rgba(255, 255, 255, 0.2);
         padding: 14px 20px 10px;
         border-radius: 10px;
-        box-shadow: 0px 0px 0px 10px rgba(255, 255, 255, 0.0)
+        box-shadow: 0px 0px 0px 10px rgba(255, 255, 255, 0.0);
+        width: 100%;
     }
+
+    .celular{
+	display: none;
+}
+
+.c-text-center{
+	text-align: center;
+}
+
+
 
     .main-search-input-item {
         width: 100%;
