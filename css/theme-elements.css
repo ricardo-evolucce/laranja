@@ -2043,6 +2043,7 @@ Theme Version:	9.4.0
 	font-size: 0.8em;
 	text-transform: uppercase;
 	text-shadow: none;
+	color: #fff;
 }
 
 .breadcrumb > li + li:before {
@@ -7847,7 +7848,7 @@ label.error#captcha-error {
 }
 
 .form-errors-light label.error {
-	color: #FFF;
+	color:#ff0000;
 }
 
 /* Search Cancel Button */
@@ -8548,7 +8549,7 @@ h3 {
 	font-size: 1.8em;
 	font-weight: 400;
 	line-height: 24px;
-	margin-bottom: 33px;
+	margin-bottom: 15px;
 	text-transform: uppercase;
 }
 

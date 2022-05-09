@@ -1116,8 +1116,8 @@ html .overlay-color-light:not(.no-skin):before {
 }
 
 html .btn-primary {
-	background-color: #2B4AFF;
-	border-color: #2B4AFF #2B4AFF #0024f7;
+	background-color: #fc9230;
+	border-color: #fc9230;
 	color: #FFF;
 	--color: #2B4AFF;
 	--hover: #516bff;
@@ -2743,7 +2743,7 @@ html .bg-color-dark-scale-border-top-9 {
 }
 
 section.page-header .page-header-title-border {
-	background-color: #2B4AFF !important;
+	background-color: #ff8600 !important;
 }
 
 section.page-header.custom-product {

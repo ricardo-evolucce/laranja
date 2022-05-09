@@ -16,7 +16,8 @@
 }
 
 a {
-	color: #0088CC;
+	color:#f4760d !important;
+
 }
 
 a:hover {
@@ -2741,7 +2742,7 @@ html .bg-color-dark-scale-border-top-9 {
 }
 
 section.page-header .page-header-title-border {
-	background-color: #0088CC !important;
+	background-color: #f4760d !important;
 }
 
 section.page-header.custom-product {
@@ -3845,8 +3846,8 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link.active:foc
 .list.list-icons li a:first-child > [class*="fa-"]:first-child,
 .list.list-icons li > .icons:first-child,
 .list.list-icons li a:first-child > .icons:first-child {
-	color: #0088CC;
-	border-color: #0088CC;
+	    color: #f3970a;
+    border-color: #f3970a;
 }
 
 .list.list-icons.list-icons-style-3 li > [class*="fa-"]:first-child,
@@ -6377,19 +6378,19 @@ html .feature-box-light.feature-box-style-6 .feature-box-icon .icons {
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(1) {
-	background-color: #006699;
+	background-color: #f4750c;
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(2) {
-	background-color: #0077b3;
+	background-color: #f4750ceb;
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(3) {
-	background-color: #0088CC;
+	background-color:#f4750cd4
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(4) {
-	background-color: #0099e6;
+	background-color:#f4750cba
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(5) {

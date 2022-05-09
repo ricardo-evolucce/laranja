@@ -4,7 +4,10 @@ Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	9.4.0
 */
 
-
+.btn-outline-primario{
+    color: #d37e16;
+    border-color: #fc9230;
+}
 
 .btn-laranja{
 	background-color:#fc9a31;
@@ -4489,7 +4492,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 }
 
 html.side-header-hamburguer-sidebar .main .container, html.side-header-hamburguer-sidebar #footer .container {
-	padding: 0 35px;
+	/*padding: 0 35px;*/
 	width: auto !important;
 	max-width: 1210px;
 }
@@ -5088,7 +5091,7 @@ html.ie #header .header-column .header-extra-info .feature-box .feature-box-info
 }
 
 .page-header.page-header-modern.page-header-md {
-	padding: 50px 0;
+	padding: 20px 0;
 }
 
 .page-header.page-header-modern.page-header-lg {
@@ -10030,9 +10033,9 @@ a.text-light:focus, a.text-light:hover {
 /* #Footer */
 #footer {
 	background: #212529;
-	border-top: 4px solid #212529;
+	/*border-top: 4px solid #212529;*/
 	font-size: 0.9em;
-	margin-top: 50px;
+	/*margin-top: 50px;*/
 	padding: 0;
 	position: relative;
 	clear: both;
