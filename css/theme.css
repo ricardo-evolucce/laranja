@@ -4989,8 +4989,8 @@ html.side-header-hamburguer-sidebar-narrow-bar .slider-container {
 	}
 
 	html.side-header-hamburguer-sidebar-narrow-bar #header {
-		padding-left: 90px;
-		left: -90px !important;
+		/*padding-left: 90px;
+		left: -90px !important;*/
 	}
 }
 
