@@ -4,6 +4,10 @@ Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	9.4.0
 */
 
+@media (max-width: 500px) {  
+  h4 {font-size:0.7rem !important;} 
+}
+
 .btn-outline-primario{
     color: #d37e16;
     border-color: #fc9230;
@@ -184,7 +188,7 @@ html {
 body {
 	background-color: #FFF;
 	color: #777;
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Poppins", Arial, sans-serif !important;
 	font-size: 14px;
 	line-height: 26px;
 	margin: 0;
