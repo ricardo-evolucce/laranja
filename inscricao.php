@@ -90,9 +90,7 @@ try {
 							<input type="submit" name="submit" id="enviar" class="form-submit" value="Me inscrever" disabled="true"/>
 						</div>
 					</form>
-					<p class="loginhere">
-						Esqueceu de algo? <a href="#" class="loginhere-link" onclick="goBack()">Voltar</a>
-					</p>
+				
 				</div>
 			</div>
 		</section>
