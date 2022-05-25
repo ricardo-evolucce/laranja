@@ -10,7 +10,7 @@
 							</li>
 							<li class="pb-1 mb-2">
 								<span class="d-block font-weight-normal line-height-1 text-color-light">Whatsapp</span>
-								<a href="tel:+1234567890">(51) 99.815.2735</a>
+								<a href="tel:51998152735">(51) 99.815.2735</a>
 							</li>
 			
 						</ul>
@@ -19,10 +19,10 @@
 					<div class="col-md-5 col-lg-5 mb-5 mb-lg-0 ">
 						<h5 class="text-4 text-color-light mb-3">Links Úteis</h5>
 						<ul class="list list-unstyled mb-0">
-							<li class="mb-0"><a href="cursos.php">Cursos</a></li>
-							<li class="mb-0"><a href="support-account.php">Support Account Startups</a></li>
-							<li class="mb-0"><a href="pericia-e-consultoria-contabil-porto-alegre.php">Perícia Contábil</a></li>
-							<li class="mb-0"><a href="pagamento-honorarios.php">Pagamento Online</a></li>
+							<li class="mb-0"><a href="politicas-de-privacidade.php">Políticas de Privacidade</a></li>
+							<li class="mb-0"><a href="codigo-etica-conduta.php">Código de Ética e Conduta</a></li>
+							<li class="mb-0"><a href="termos-de-uso.php">Termos de Uso</a></li>
+							<li class="mb-0"><a href="usuarioDados.php">Usuário / Proteção de dados</a></li>
 					
 						</ul>
 
