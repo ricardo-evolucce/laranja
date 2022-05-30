@@ -35,16 +35,16 @@ try {
 
 
     //Server settings
-    //$mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+    //$mail->SMTPDebug = 4;                      // Enable verbose debug output
     $mail->isSMTP();  
     $mail->CharSet = 'UTF-8';                                          // Send using SMTP
     $mail->Host       = 'mail.laranja.website';                    // Set the SMTP server to send through
-    $mail->SMTPSecure = "tls"; // conexão segura com TLS
+   //$mail->SMTPSecure = "ssl"; // conexão segura com TLS
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
     $mail->Username   = 'site@laranja.website';                     // SMTP username
     $mail->Password   = 'gubk!IXA~6]v<>{a';                               // SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
-    $mail->Port       = 465;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
+    $mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
     //Recipients
     $mail->setFrom('site@laranja.website', 'Site Laranja-Marranghello');
@@ -67,7 +67,7 @@ try {
     $mail->send();
 
     echo '<script>alert("A mensagem de e-mail foi enviada.")</script>';
-    echo '<script>window.location.href = "http://www.laranja-marranghello.com.br"</script>';
+    echo '<script>window.location.href = "https://laranja.website"</script>';
 } catch (Exception $e) {
     echo "Mensagem não pode ser enviada. Erro: {$mail->ErrorInfo}";
 }
@@ -80,7 +80,7 @@ if ($response == null) {
 echo '<script>alert("Por favor, marque no formulário a opção: Não sou um robô.");</script>';
 
 
-echo '<script>window.location.href = "http://www.laranja-marranghello.com.br/contatoDados.php";</script>';
+echo '<script>window.location.href = "https://laranja.website/contatoDados.php";</script>';
 
 
 }
