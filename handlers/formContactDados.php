@@ -9,7 +9,7 @@ require '../vendor/autoload.php';
 require_once "../include/recaptchalib.php";
 
 // definir a chave secreta
-$secret = "6LfOnOcUAAAAAK-cCeyptIWfNPHFsDIW4HCncCG6";
+$secret = "6LeZVC4gAAAAAA0HnXed1z0whE8YsO5BzCMfxZaB";
 
 // verificar a chave secreta
 $response = null;
