@@ -1,0 +1,211 @@
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 20: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xE7 0xE3 0x6F 0x20 in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string():     	&lt;title&gt;PagSeguro - A solu��o completa para pagamentos online&lt;/title&gt; in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string():     	                         ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 191: parser error : Opening and ending tag mismatch: div line 191 and br in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 					&lt;div class=&quot;securityPS&quot;&gt;Todas as p�ginas do PagSeguro est�o &lt;/br&gt;em ambient in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 					                                                                 ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 191: parser error : Opening and ending tag mismatch: aside line 178 and div in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): curityPS&quot;&gt;Todas as p�ginas do PagSeguro est�o &lt;/br&gt;em ambiente de seguran�a&lt;/div in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string():                                                                                ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 192: parser error : Opening and ending tag mismatch: div line 144 and aside in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 				&lt;/aside&gt; in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 				        ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 193: parser error : Opening and ending tag mismatch: footer line 143 and div in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 			&lt;/div&gt; in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 			      ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 198: parser error : Entity 'copy' not defined in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 							&amp;copy; 1996-&lt;time&gt;2016&lt;/time&gt; O melhor conte�do. Todos os direitos reserv in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 							      ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 200: parser error : Opening and ending tag mismatch: br line 198 and p in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 						&lt;/p&gt; in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 						    ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 201: parser error : Opening and ending tag mismatch: p line 197 and div in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 					&lt;/div&gt; in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 					      ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 204: parser error : Opening and ending tag mismatch: div line 194 and footer in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 		&lt;/footer&gt; in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): 		         ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): Entity: line 207: parser error : Premature end of data in tag html line 6 in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string():  in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[01-Oct-2019 06:12:52 UTC] PHP Warning:  simplexml_load_string(): ^ in /home2/franci80/public_html/dev/sandbox/notificacao.php on line 19
+[11-Jun-2021 11:57:31 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[17-Jun-2021 18:57:55 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[22-Jun-2021 15:23:26 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[28-Jun-2021 11:41:54 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[07-Jul-2021 17:17:31 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[07-Jul-2021 19:02:58 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[16-Nov-2021 09:14:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[18-Nov-2021 05:25:44 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[18-Dec-2021 03:27:21 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[21-Mar-2022 09:20:24 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[28-Mar-2022 09:00:10 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[03-Apr-2022 07:23:57 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[27-Apr-2022 03:07:36 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[05-May-2022 17:26:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9
+[05-May-2022 17:26:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/laran950/public_html/system/pagSeguro/conecta.php:9
+Stack trace:
+#0 /home2/laran950/public_html/system/pagSeguro/conecta.php(9): PDO->__construct('mysql:host=mysq...', 'maranga', 'jupiter1212')
+#1 /home2/laran950/public_html/system/pagSeguro/notification.php(26): conecta->__construct()
+#2 {main}
+  thrown in /home2/laran950/public_html/system/pagSeguro/conecta.php on line 9

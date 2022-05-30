@@ -1,0 +1,1 @@
+<?php $senha =  sha1(md5('maranga')); echo $senha; ?>
