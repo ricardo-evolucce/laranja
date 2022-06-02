@@ -12,6 +12,10 @@
 								<span class="d-block font-weight-normal line-height-1 text-color-light">Whatsapp</span>
 								<a href="tel:51998152735">(51) 99.815.2735</a>
 							</li>
+							<li class="pb-1 mb-2">
+								<span class="d-block font-weight-normal line-height-1 text-color-light">Email</span>
+								<a href="mailto:contato@laranja.website">contato@laranja.website</a>
+							</li>
 			
 						</ul>
 						
