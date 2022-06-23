@@ -227,6 +227,16 @@ try {
                                                     </div>
                                                 </div>
 
+
+                                                <div class="col-6">
+                                                    <label for="x_card_code" class="control-label mb-1">Vagas</label>
+                                                    <div class="input-group">
+                                                        <input id="x_card_code" name="vagas" type="tel" class="form-control cc-cvc" value="<?php echo $row['vagas']; ?>" data-val="true" data-val-required="Please enter the security code"
+                                                            data-val-cc-cvc="Please enter a valid security code" autocomplete="off">
+
+                                                    </div>
+                                                </div>
+
                                                 
                                                  <div class="col-6">
                                                     <label for="x_card_code" class="control-label mb-1"><b>Mostrar no site</b></label>
