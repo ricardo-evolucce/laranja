@@ -44,8 +44,8 @@ try {
           $imagem = substr($imagem1, 3);
 
       move_uploaded_file($_FILES['fileUpload']['tmp_name'], $dir.$new_name); //Fazer upload do arquivo
-   }
-   
+
+
   $stmt = $pdo->prepare('UPDATE cursos SET nome = :nome, data = :data, horario = :horario, valor = :valor, vagas = :vagas, endereco = :endereco, nomeProf = :nomeProf, curriculo = :curriculo, no_site = :no_site, descricao = :descricao, local = :local, imagem = :imagem, data_fim = :data_fim, cargaHoraria = :cargaHoraria, vagas = :vagas WHERE idCurso = :idCurso');
   $stmt->execute(array(
     ':idCurso'   => $idCurso,
@@ -66,6 +66,31 @@ try {
      ':vagas' => $vagas
   ));
 
+
+   }else{
+
+
+   
+  $stmt = $pdo->prepare('UPDATE cursos SET nome = :nome, data = :data, horario = :horario, valor = :valor, vagas = :vagas, endereco = :endereco, nomeProf = :nomeProf, curriculo = :curriculo, no_site = :no_site, descricao = :descricao, local = :local, data_fim = :data_fim, cargaHoraria = :cargaHoraria, vagas = :vagas WHERE idCurso = :idCurso');
+  $stmt->execute(array(
+    ':idCurso'   => $idCurso,
+    ':nome'   => $nome,
+    ':data'   => $data,
+    ':horario'   => $horario,
+    ':valor'   => $valorNovo,
+    ':vagas'   => $vagas,
+    ':endereco'   => $endereco,
+    ':nomeProf'   => $nomeProf,
+    ':curriculo'   => $curriculo,
+      ':no_site'   => $no_site,
+    ':descricao' => $descricao,
+    ':local' => $local,
+
+    ':data_fim' => $data_fim,
+    ':cargaHoraria' => $cargaHoraria,
+     ':vagas' => $vagas
+  ));
+}
 
 
      
