@@ -35,7 +35,7 @@
     <link href="css/theme.css" rel="stylesheet" media="all">
 
     <!-- Editor Tiny -->
-    <script src="https://cdn.tiny.cloud/1/8ykorrbir1qatclpr71m5wd2p2x0xi2iiensm2624g6nqnmt/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/aijkmomomnr18vw48p9c4ufn5a01mvuzyg63ldk1btioc0dh/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
 
     <script>
     	tinymce.init({
