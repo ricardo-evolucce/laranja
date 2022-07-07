@@ -36,7 +36,7 @@ try {
 
  
 
-      if ($_FILES['fileUpload']['error'] =! 4)
+      if ($_FILES['Arquivo']['size'] > 0)
    {
       date_default_timezone_set("Brazil/East"); //Definindo timezone padrão
 
