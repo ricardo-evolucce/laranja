@@ -27,16 +27,12 @@ $valorNovo = str_replace($string, '', $valorCurso);
 
 $username = 'laran950_usuario';
 $password = 'Alberto0!';
-
-
    
 try {
   $pdo = new PDO('mysql:host=br14.hostgator.com.br;dbname=laran950_maranga;charset=utf8', $username, $password);
   $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
- 
-
-      if ($_FILES['Arquivo']['size'] > 0)
+      if($_FILES['fileUpload']['error'] != 4)
    {
       date_default_timezone_set("Brazil/East"); //Definindo timezone padrão
 
@@ -48,8 +44,8 @@ try {
           $imagem = substr($imagem1, 3);
 
       move_uploaded_file($_FILES['fileUpload']['tmp_name'], $dir.$new_name); //Fazer upload do arquivo
-
-
+  
+   
   $stmt = $pdo->prepare('UPDATE cursos SET nome = :nome, data = :data, horario = :horario, valor = :valor, vagas = :vagas, endereco = :endereco, nomeProf = :nomeProf, curriculo = :curriculo, no_site = :no_site, descricao = :descricao, local = :local, imagem = :imagem, data_fim = :data_fim, cargaHoraria = :cargaHoraria, vagas = :vagas WHERE idCurso = :idCurso');
   $stmt->execute(array(
     ':idCurso'   => $idCurso,
@@ -70,11 +66,11 @@ try {
      ':vagas' => $vagas
   ));
 
+}
 
-   }else{
+else{
 
 
-   
   $stmt = $pdo->prepare('UPDATE cursos SET nome = :nome, data = :data, horario = :horario, valor = :valor, vagas = :vagas, endereco = :endereco, nomeProf = :nomeProf, curriculo = :curriculo, no_site = :no_site, descricao = :descricao, local = :local, data_fim = :data_fim, cargaHoraria = :cargaHoraria, vagas = :vagas WHERE idCurso = :idCurso');
   $stmt->execute(array(
     ':idCurso'   => $idCurso,
@@ -94,8 +90,9 @@ try {
     ':cargaHoraria' => $cargaHoraria,
      ':vagas' => $vagas
   ));
-}
 
+
+}
 
      
   echo $stmt->rowCount(); 
