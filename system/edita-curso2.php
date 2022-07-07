@@ -32,7 +32,7 @@ try {
   $pdo = new PDO('mysql:host=br14.hostgator.com.br;dbname=laran950_maranga;charset=utf8', $username, $password);
   $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-      if(isset($_FILES['fileUpload']))
+      if(!empty($_FILES['fileUpload']))
    {
       date_default_timezone_set("Brazil/East"); //Definindo timezone padrão
 
