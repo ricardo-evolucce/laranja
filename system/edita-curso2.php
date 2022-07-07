@@ -27,12 +27,16 @@ $valorNovo = str_replace($string, '', $valorCurso);
 
 $username = 'laran950_usuario';
 $password = 'Alberto0!';
+
+
    
 try {
   $pdo = new PDO('mysql:host=br14.hostgator.com.br;dbname=laran950_maranga;charset=utf8', $username, $password);
   $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-      if(!empty($_FILES['fileUpload']))
+ 
+
+      if ($_FILES['fileUpload']['error'] =! 4)
    {
       date_default_timezone_set("Brazil/East"); //Definindo timezone padrão
 
